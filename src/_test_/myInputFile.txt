@@ -1,0 +1,7 @@
+{"command":"addItem","payload":{"itemId":10,"categoryId":10,"sellerId":10,"price":10,"quantity":1}}  
+{"command":"addItem","payload":{"itemId":10,"categoryId":10,"sellerId":10,"price":10,"quantity":1}}  
+{"command":"addItem","payload":{"itemId":10,"categoryId":10,"sellerId":10,"price":10,"quantity":1}}  
+{"command":"addItem","payload":{"itemId":10,"categoryId":10,"sellerId":10,"price":10,"quantity":1}}  
+{"command":"displayCart"}  
+{"command":"resetCart"}  
+{"command":"displayCart"}  
