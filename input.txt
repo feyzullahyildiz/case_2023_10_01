@@ -1,0 +1,10 @@
+{"command":"addItem","payload":{"itemId":10,"categoryId":1001,"sellerId":100,"price":10,"quantity":1}}  
+{"command":"addVasItemToItem","payload":{"itemId":10,"vasItemId":100,"vasCategoryId":500,"vasSellerId":333,"price":10,"quantity":1}}
+{"command":"addVasItemToItem","payload":{"itemId":10,"vasItemId":100,"vasCategoryId":3242,"vasSellerId":5003,"price":10,"quantity":1}}
+{"command":"addItem","payload":{"itemId":200,"categoryId":10,"sellerId":10,"price":200,"quantity":1}}  
+{"command":"addItem","payload":{"itemId":200,"categoryId":10,"sellerId":10,"price":200,"quantity":1}}  
+{"command":"addItem","payload":{"itemId":200,"categoryId":10,"sellerId":10,"price":200,"quantity":1}}  
+
+{"command":"displayCart"}  
+{"command":"resetCart"}  
+{"command":"displayCart"}  
